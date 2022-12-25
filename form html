@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>login form</title>
+        <body>
+            <form action="#" method="post">
+                <p><label for="first name ">first name</label>
+                <input type="text" placeholder="enter name "</p>
+                <p><label>last name </label>
+                <input type="text" placeholder="enter name"></p>
+                <p><label for="address">address</label>
+                    <input type="textarea" placeholder="enter address">
+                </p>
+                <p><label for="city">city</label>
+                <select>
+                    <option value="1" selected>
+                select
+                    </option>
+                    <option value="ahmedabad">ahmedabad</option>
+                    <option value="vadodra">vadodra</option>
+                </select>
+                </p>
+                <p><labe>date of birth</label>
+                <input type="text" placeholder="birth date">
+            </p>
+            <p><label for="email id" aria-placeholder="@gmail.com"></label>
+            </p>
+            <p><label for="">
+                <input type="checkbox" value="terms">
+            </label></p>
+            <p><button>submit</button></p>
+
+            
+            </form>
+        </body>
+    </head>
+</html> 
